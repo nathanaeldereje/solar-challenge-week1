@@ -36,3 +36,7 @@ def kruskal_test(df: pd.DataFrame, group_col: str, value_col: str):
     groups = [g[value_col].dropna().values for _, g in df.groupby(group_col)]
     H, p = stats.kruskal(*groups)
     return {'H': float(H), 'p': float(p)}
+
+def cleaning_impact(df, module_cols=["ModA","ModB"], cleaning_col="Cleaning"):
+    """Calculate average module readings pre/post cleaning."""
+    return df.groupby(cleaning_col)[module_cols].mean()

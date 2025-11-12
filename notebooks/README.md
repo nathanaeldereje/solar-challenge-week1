@@ -10,14 +10,14 @@ This version now reflects that the notebooks comparison work:
 This folder contains Jupyter notebooks for data profiling, cleaning, and exploratory analysis
 of solar datasets for multiple countries.
 
-<!-- ## Structure
+## Structure
 
 | Notebook | Description |
 |-----------|--------------|
 | `benin_eda.ipynb` | Profiling, cleaning, and exploratory analysis for Benin |
 | `sierra_leone_eda.ipynb` | Profiling and EDA for Sierra Leone |
 | `togo_eda.ipynb` | Profiling and EDA for Togo |
-| `compare_countries.ipynb` | Cross-country comparison and statistical analysis | -->
+| `compare_countries.ipynb` | Cross-country comparison and statistical analysis |
 
 ## Purpose
 
