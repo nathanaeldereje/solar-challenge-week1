@@ -5,7 +5,9 @@ with the solar farm dataset.
 
 - Each notebook can contain data analysis steps, plots, and comments.
 - Placeholder notebooks can be added here as needed.
-# Sierra Leone Solar Data EDA – MoonLight Energy Solutions
+
+
+# Togo Solar Data EDA – MoonLight Energy Solutions
 
 ## Project Overview
 This project explores and cleans the Benin solar dataset (Malanville station) to identify trends, anomalies, and insights that can help optimize solar energy solutions.
