@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ## 🧩 Project Structure
 
 \`\`\`
+
 solar-challenge-week1/
 ├── .vscode/
 │   └── settings.json
@@ -64,6 +65,7 @@ solar-challenge-week1/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 \`\`\`
 
 ---
